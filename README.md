@@ -17,6 +17,21 @@
 ![#8f0c43">](https://placehold.co/15x15/8f0c43/8f0c43.png) | 900 |  ```#8f0c43```
 ![#580023">](https://placehold.co/15x15/580023/580023.png) | 900 |  ```#580023```
 
+### Lambda
+|  | Name | Hexery |
+| -------- | ------- | ------- |
+![#fff8ec">](https://placehold.co/15x15/fff8ec/fff8ec.png) | 50 |  ```#fff8ec```
+![#fff0d3">](https://placehold.co/15x15/fff0d3/fff0d3.png) | 100 |  ```#fff0d3```
+![#ffdca5">](https://placehold.co/15x15/ffdca5/ffdca5.png) | 200 |  ```#ffdca5```
+![#ffc26d">](https://placehold.co/15x15/ffc26d/ffc26d.png) | 300 |  ```#ffc26d```
+![#ff9d32">](https://placehold.co/15x15/ff9d32/ff9d32.png) | 400 |  ```#ff9d32```
+![#ff7f0a">](https://placehold.co/15x15/ff7f0a/ff7f0a.png) | 500 |  ```#ff7f0a```
+![#ff6600">](https://placehold.co/15x15/ff6600/ff6600.png) | 600 (Base) |  ```#ff6600```
+![#4E6760">](https://placehold.co/15x15/4E6760/4E6760.png) | 700 |  ```#4E6760```
+![#cc4902">](https://placehold.co/15x15/cc4902/cc4902.png) | 800 |  ```#cc4902```
+![#82310c">](https://placehold.co/15x15/82310c/82310c.png) | 900 |  ```#82310c```
+![#461604">](https://placehold.co/15x15/461604/461604.png) | 950 |  ```#461604```
+
 ### Nocturnal
 |  | Name | Hexery |
 | -------- | ------- | ------- |
