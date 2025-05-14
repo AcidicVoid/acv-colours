@@ -27,8 +27,8 @@
 ![#ff9d32">](https://placehold.co/15x15/ff9d32/ff9d32.png) | 400 |  ```#ff9d32```
 ![#ff7f0a">](https://placehold.co/15x15/ff7f0a/ff7f0a.png) | 500 |  ```#ff7f0a```
 ![#ff6600">](https://placehold.co/15x15/ff6600/ff6600.png) | 600 (Base) |  ```#ff6600```
-![#4E6760">](https://placehold.co/15x15/4E6760/4E6760.png) | 700 |  ```#4E6760```
-![#cc4902">](https://placehold.co/15x15/cc4902/cc4902.png) | 800 |  ```#cc4902```
+![#cc4902">](https://placehold.co/15x15/cc4902/cc4902.png) | 700 |  ```#cc4902```
+![#a1390b">](https://placehold.co/15x15/a1390b/a1390b.png) | 800 |  ```#a1390b```
 ![#82310c">](https://placehold.co/15x15/82310c/82310c.png) | 900 |  ```#82310c```
 ![#461604">](https://placehold.co/15x15/461604/461604.png) | 950 |  ```#461604```
 
