@@ -32,6 +32,21 @@
 ![#121217">](https://placehold.co/15x15/121217/121217.png) | 900 (Base) |  ```#121217```
 ![#070709">](https://placehold.co/15x15/070709/070709.png) | 950 |  ```#070709```
 
+### Bonestorm
+|  | Name | Hexery |
+| -------- | ------- | ------- |
+![#FAFDFC">](https://placehold.co/15x15/FAFDFC/FAFDFC.png) | 50 |  ```#FAFDFC```
+![#F2F5F4">](https://placehold.co/15x15/F2F5F4/F2F5F4.png) | 100 (Base) |  ```#F2F5F4```
+![#D5DFDC">](https://placehold.co/15x15/D5DFDC/D5DFDC.png) | 200 |  ```#D5DFDC```
+![#B8C9C4">](https://placehold.co/15x15/B8C9C4/B8C9C4.png) | 300 |  ```#B8C9C4```
+![#9BB3AC">](https://placehold.co/15x15/9BB3AC/9BB3AC.png) | 400 |  ```#9BB3AC```
+![#7E9D94">](https://placehold.co/15x15/7E9D94/7E9D94.png) | 500 |  ```#7E9D94```
+![#64847B">](https://placehold.co/15x15/64847B/64847B.png) | 600 |  ```#64847B```
+![#4E6760">](https://placehold.co/15x15/4E6760/4E6760.png) | 700 |  ```#4E6760```
+![#384A45">](https://placehold.co/15x15/384A45/384A45.png) | 800 |  ```#384A45```
+![#222D2A">](https://placehold.co/15x15/222D2A/222D2A.png) | 900 |  ```#222D2A```
+![#171E1C">](https://placehold.co/15x15/171E1C/171E1C.png) | 950 |  ```#171E1C```
+
 ### Old Palettes
 
 ### Base Palette
