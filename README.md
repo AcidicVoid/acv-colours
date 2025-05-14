@@ -2,6 +2,23 @@
 [www.acidicvoid.com](https://acidicvoid.com)
 ## Colour Palettes
 
+### Bakuretsu Crimson
+|  | Name | Hexery |
+| -------- | ------- | ------- |
+![#fef1f8">](https://placehold.co/15x15/fef1f8/fef1f8.png) | 50 |  ```#fef1f8```
+![#fee5f3">](https://placehold.co/15x15/fee5f3/fee5f3.png) | 100 |  ```#fee5f3```
+![#ffcaea">](https://placehold.co/15x15/ffcaea/ffcaea.png) | 200 |  ```#ffcaea```
+![#ff9fd6">](https://placehold.co/15x15/ff9fd6/ff9fd6.png) | 300 |  ```#ff9fd6```
+![#ff63b9">](https://placehold.co/15x15/ff63b9/ff63b9.png) | 400 |  ```#ff63b9```
+![#fe369c">](https://placehold.co/15x15/fe369c/fe369c.png) | 500 |  ```#fe369c```
+![#ef1177">](https://placehold.co/15x15/ef1177/ef1177.png) | 600 (Base) |  ```#ef1177```
+![#d1055d">](https://placehold.co/15x15/d1055d/d1055d.png) | 700 |  ```#d1055d```
+![#ac084c">](https://placehold.co/15x15/ac084c/ac084c.png) | 800 |  ```#ac084c```
+![#8f0c43">](https://placehold.co/15x15/8f0c43/8f0c43.png) | 900 |  ```#8f0c43```
+![#580023">](https://placehold.co/15x15/580023/580023.png) | 900 |  ```#580023```
+
+### Old Palettes
+
 ### Base Palette
 |  | Name | Hexery |
 | -------- | ------- | ------- |
