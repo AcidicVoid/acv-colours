@@ -32,6 +32,21 @@
 ![#82310c">](https://placehold.co/15x15/82310c/82310c.png) | 900 |  ```#82310c```
 ![#461604">](https://placehold.co/15x15/461604/461604.png) | 950 |  ```#461604```
 
+### Moonlight
+|  | Name | Hexery |
+| -------- | ------- | ------- |
+![#f5f7fa">](https://placehold.co/15x15/f5f7fa/f5f7fa.png) | 50 |  ```#f5f7fa```
+![#e9ecf5">](https://placehold.co/15x15/e9ecf5/e9ecf5.png) | 100 |  ```#e9ecf5```
+![#cfd8e8">](https://placehold.co/15x15/cfd8e8/cfd8e8.png) | 200 |  ```#cfd8e8```
+![#a4b6d5">](https://placehold.co/15x15/a4b6d5/a4b6d5.png) | 300 |  ```#a4b6d5```
+![#7490bc">](https://placehold.co/15x15/7490bc/7490bc.png) | 400 |  ```#7490bc```
+![#5272a5">](https://placehold.co/15x15/5272a5/5272a5.png) | 500 |  ```#5272a5```
+![#3f5a8a">](https://placehold.co/15x15/3f5a8a/3f5a8a.png) | 600 |  ```#3f5a8a```
+![#344970">](https://placehold.co/15x15/344970/344970.png) | 700 |  ```#344970```
+![#2e3f5e">](https://placehold.co/15x15/2e3f5e/2e3f5e.png) | 800 |  ```#2e3f5e```
+![#29354d">](https://placehold.co/15x15/29354d/29354d.png) | 900 (Base) |  ```#29354d```
+![#1c2435">](https://placehold.co/15x15/1c2435/1c2435.png) | 950 |  ```#1c2435```
+
 ### Nocturnal
 |  | Name | Hexery |
 | -------- | ------- | ------- |
